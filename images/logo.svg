@@ -1,5 +1,5 @@
 <svg width="200" height="100" viewBox="0 0 190 10" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="15" fill="#FFFFFF" font-family="Castoro" font-size="24">CAIO DAVANTEL</text>
+  <text x="0" y="15" fill="#FFFFFF" font-family="var(--font-2)" font-size="24">CAIO DAVANTEL</text>
 </svg>
 
 
