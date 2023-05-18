@@ -3866,13 +3866,6 @@ td:last-child {
     color: #cc442c;
 }
 
-#experience {
-    display    : block;
-    font-size  : var(--text-size);
-    font-weight: 300;
-    line-height: 1.2;
-    color      : var(--color-text-light) !important;
-}
 
 /* ------------------------------------------------------------------- 
  * responsive:
