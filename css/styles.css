@@ -4106,7 +4106,6 @@ td:last-child {
 
 #certificates a {
     color: var(--color-text-light);
-    background-image: url(/w/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg?30a3a);
 }
 
 #certificates a:focus,
